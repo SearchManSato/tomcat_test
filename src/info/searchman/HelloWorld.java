@@ -13,7 +13,7 @@ response.setContentType("text/html");
 PrintWriter out = response.getWriter();
 out.println("<html>");
 out.println("<head>");
-out.println("<title>Hello Tokyo!</title>");
+out.println("<title>Hello Sendai!</title>");
 out.println("</head>");
 out.println("<body>");
 out.println("<h1>Hello World!</h1>");
